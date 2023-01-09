@@ -110,14 +110,14 @@ Second cell code make a violin plot of the lobeyness in funtion of the species p
 
 What we obtained :
 
-![violin plot](images/violin_plot_lobeyness.png)
+![violin plot](images_for_readme/violin_plot_lobeyness.png)
 
 
 Third cell code make a scatter plot of area in function of lobeyness (organized in color per species)
 
 What we obtained:
 
-![scatter plot](images/scatter_plot_lobeyness.png)
+![scatter plot](images_for_readme/scatter_plot_lobeyness.png)
 
 
 Fourth cell code permits to compare our previous results (dataframe of first cell) with a parametric map of the mask. (for the image that you want to compare)
@@ -144,7 +144,7 @@ The code permit you to obtain :
    - a csv table containing all the the number of non triangular junctions and the total number of junctions with csv file name 
    - a figure bar plot showing in x the species and in y the ratio (number of non triagular / number total) value for each image. 
 
-![barplot](images/bar_plot_junctions.png)
+![barplot](images_for_readme/bar_plot_junctions.png)
 
 ## Main limitations/known issues and future developments
 
